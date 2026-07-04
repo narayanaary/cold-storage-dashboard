@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cold-Storage Architecture Map v3.0</title>
+    <style>
+        body {
+            background-color: #1A1A1A;
+            color: #FFFFFF;
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        .header-container {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 3px solid #0F4C81;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-family: 'Montserrat', sans-serif;
+            color: #0F4C81;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin: 0 0 10px 0;
+            font-weight: 700;
+        }
+        .subtitle {
+            color: #2B82C9;
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin: 0;
+        }
+        .node-card {
+            background-color: #1A1A1A;
+            border: 2px solid #0F4C81;
+            border-radius: 0px;
+            padding: 24px;
+            margin-bottom: 20px;
+            box-sizing: border-box;
+        }
+        .node-title {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            color: #FFFFFF;
+            text-transform: uppercase;
+            margin: 0 0 8px 0;
+            letter-spacing: 1px;
+            font-size: 18px;
+        }
+        .node-meta {
+            color: #2B82C9;
+            font-size: 14px;
+            margin: 0 0 16px 0;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .node-desc {
+            color: #FFFFFF;
+            font-size: 14px;
+            line-height: 1.6;
+            margin: 0 0 20px 0;
+        }
+        .deploy-btn {
+            display: inline-block;
+            background-color: #0F4C81;
+            color: #FFFFFF;
+            text-decoration: none;
+            padding: 14px 28px;
+            font-weight: 700;
+            border-radius: 0px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header-container">
+        <h1>Cold-Storage Architecture Map</h1>
+        <p class="subtitle">Product 8 Blueprint – v3.0 Interactive Mobile Ledger</p>
+    </div>
+
+    <div class="node-card">
+        <div class="node-title">Node_004_PRD – Foundational Grid Blueprint</div>
+        <div class="node-meta">Operational Tier: 001 | Allocation: $30.00</div>
+        <p class="node-desc">Eliminates creative friction. Locks down rigid visual layout mechanics to establish absolute structural control.</p>
+        <a href="https://payhip.com/b/blueprint30" target="_blank" class="deploy-btn">Deploy Checkout Engine →</a>
+    </div>
+
+    <div class="node-card">
+        <div class="node-title">Node_005_PRD – B2B Delivery Engine: Core Velocity Vault</div>
+        <div class="node-meta">Operational Tier: 002 | Allocation: $60.00</div>
+        <p class="node-desc">Replaces custom creative chaos with rigid, productized delivery systems designed to double execution speed.</p>
+        <a href="https://payhip.com/b/velocity60" target="_blank" class="deploy-btn">Deploy Checkout Engine →</a>
+    </div>
+
+    <div class="node-card">
+        <div class="node-title">Node_006_PRD – Enterprise Content Architecture: Advanced Velocity Vault</div>
+        <div class="node-meta">Operational Tier: 003 | Allocation: $90.00</div>
+        <p class="node-desc">Builds complete cross-channel distribution systems and automated backend pipelines built for scaling organizations.</p>
+        <a href="https://payhip.com/b/enterprise90" target="_blank" class="deploy-btn">Deploy Checkout Engine →</a>
+    </div>
+
+</body>
+</html>
